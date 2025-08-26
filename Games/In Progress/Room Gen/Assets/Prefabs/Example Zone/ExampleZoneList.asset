@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d8d6139751c85944a51a49646e305c6, type: 3}
+  m_Name: ExampleZoneList
+  m_EditorClassIdentifier: Assembly-CSharp::ObjectListSO
+  objects:
+  - {fileID: 4570776499672057930, guid: 146c87e7f6fd8c041babf381b7a201bd, type: 3}
+  - {fileID: 4570776499672057930, guid: 551ee5b76a89afe459d1411ff508b211, type: 3}
+  - {fileID: 4570776499672057930, guid: 471eb162b380fe745bc7e5fe6c867a43, type: 3}

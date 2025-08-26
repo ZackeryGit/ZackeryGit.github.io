@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15578dbdace84464db9834c714b6f7ef, type: 3}
+  m_Name: Empty
+  m_EditorClassIdentifier: 
+  upgradeName: 
+  image: {fileID: 0}
+  description: 
+  currentLevel: 0
+  maxLevel: 0
+  mainPrerequisite: {fileID: 0}
+  prerequisites: []
+  costList: []
+  useCostList: 0
+  baseCost: 0
+  linearIncrease: 0
+  quadraticalIncrease: 0
+  scaleIntensity: 0
+  modifierType: 0
+  appliedStats: []
+  modifierBase: 0
+  modifierLinear: 0
